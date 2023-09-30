@@ -6,3 +6,4 @@ Instructions: Press the "space" to start the song, and press the "p" button to p
 The index.html holds the code that allows the music files to be played.
 The script,js holds all of the code for not only the design, but the interactions like the color changes, note movements, and the music playing.
 The song is used is listed here: https://www.youtube.com/watch?v=S0qrinhNnOM
+<img width="601" alt="Screenshot 2023-09-29 at 11 50 57 PM" src="https://github.com/ariannasmithforte/The-Album-Cover/assets/142956824/514f1495-1547-42ce-a0cd-edb823accd5e">
